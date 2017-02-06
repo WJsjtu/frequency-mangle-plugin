@@ -1,0 +1,24 @@
+{
+  "name": "frequency-mangle-plugin",
+  "version": "0.0.1",
+  "description": "A property/string mangle plugin for Webpack.",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "author": {
+    "name": "王健（Jason Wang）",
+    "email": "jasonwang0421@gmail.com",
+    "url": "http://github.com/wjsjtu"
+  },
+  "homepage": "http://wjsjtu.github.io/frequency-mangle-plugin/",
+  "keywords": [
+    "mangle",
+    "optimize",
+    "javascript",
+    "webpack"
+  ],
+  "devDependencies": {
+    "frequency-mangle": "0.0.2",
+    "webpack": "^2.2.1"
+  }
+}
