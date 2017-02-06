@@ -1,6 +1,6 @@
 {
   "name": "frequency-mangle-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A property/string mangle plugin for Webpack.",
   "main": "index.js",
   "license": "MIT",
@@ -17,7 +17,7 @@
     "javascript",
     "webpack"
   ],
-  "devDependencies": {
+  "dependencies": {
     "frequency-mangle": "0.0.2",
     "webpack": "^2.2.1"
   }
