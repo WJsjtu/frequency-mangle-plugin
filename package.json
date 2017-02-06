@@ -4,7 +4,6 @@
   "description": "A property/string mangle plugin for Webpack.",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {},
   "author": {
     "name": "王健（Jason Wang）",
     "email": "jasonwang0421@gmail.com",
