@@ -3,7 +3,7 @@ var ModuleFilenameHelpers = require("webpack/lib/ModuleFilenameHelpers");
 var FrequencyMangle = require("frequency-mangle");
 
 var FrequencyManglePlugin = function (options) {
-    this.options = options;
+    this.options = options || {};
 };
 
 FrequencyManglePlugin.prototype.apply = function (compiler) {
